@@ -1,16 +1,18 @@
 # Amplify Graphql Api Learning Repo
 <p>This is sample code from AWS Amplify to learn GraphQL Api. </p>
-<br/>
-<h2> Source : https://docs.amplify.aws/cli/graphql-transformer/overview </h2>
+
+<h3> Source : https://docs.amplify.aws/cli/graphql-transformer/overview </h3>
 
 # Creating a Graph QL API
 Use Amplify cli tools to create a new API
 
-code: amplify init
+<strong>command:</strong><br/>
+<i>amplify init</i>
 
-Once the setup wizard finishes execution
+Once the setup wizard finishes execution.
 
-code: amplify add api
+<strong>command:</strong><br/>
+<i>amplify add api</i>
 
 Select the following options:
 <ul>
