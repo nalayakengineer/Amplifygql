@@ -3,7 +3,7 @@
 
 <h3> Source : https://docs.amplify.aws/cli/graphql-transformer/overview </h3>
 
-# Creating a Graph QL API
+# Creating a Graph QL API using AWS Amplify CLI
 Use Amplify cli tools to create a new API
 
 <strong>command:</strong><br/>
